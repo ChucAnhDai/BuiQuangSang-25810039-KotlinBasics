@@ -1,5 +1,3 @@
-// Bui Quang Sang - MSSV: 25810039
-
 fun main() {
     val quantity: Int = 3
     val unitPrice: Double = 50_000.0

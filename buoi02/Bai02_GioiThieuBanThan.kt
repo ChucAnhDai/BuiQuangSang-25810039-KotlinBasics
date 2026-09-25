@@ -1,5 +1,3 @@
-// Bui Quang Sang - MSSV: 25810039
-
 fun main() {
     val fullName = "Bui Quang Sang"
     val birthYear = 2007

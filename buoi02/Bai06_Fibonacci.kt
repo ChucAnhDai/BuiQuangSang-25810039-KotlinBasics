@@ -1,5 +1,3 @@
-// Bui Quang Sang - MSSV: 25810039
-
 fun main() {
     var firstNumber = 0
     var secondNumber = 1

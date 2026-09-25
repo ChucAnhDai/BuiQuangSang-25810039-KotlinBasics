@@ -1,5 +1,3 @@
-// Bui Quang Sang - MSSV: 25810039
-
 fun main() {
     val weight: Double = 60.0
     val height: Double = 1.65
