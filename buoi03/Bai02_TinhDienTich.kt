@@ -1,5 +1,3 @@
-// Bui Quang Sang - MSSV: 25810039
-
 fun tinhDienTich(chieuDai: Double, chieuRong: Double): Double {
     return chieuDai * chieuRong
 }

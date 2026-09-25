@@ -1,5 +1,3 @@
-// Bui Quang Sang - MSSV: 25810039
-
 fun tinhBinhPhuongDayDu(so: Int): Int {
     return so * so
 }

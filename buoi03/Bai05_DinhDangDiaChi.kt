@@ -1,5 +1,3 @@
-// Bui Quang Sang - MSSV: 25810039
-
 fun dinhDangDiaChi(
     soNha: String,
     tenDuong: String,

@@ -1,5 +1,3 @@
-// Bui Quang Sang - MSSV: 25810039
-
 val kiemTraDoDai: (String) -> Boolean = { matKhau ->
     matKhau.length >= 8
 }
